@@ -3,7 +3,7 @@
 
 }
 body{
-    background-color: rgb(218, 212, 212);
+    background-color: hsl(210, 46%, 95%);;
     font-family: 'Barlow Semi Condensed', sans-serif;   
     font-size: 13px;
 }
@@ -33,6 +33,9 @@ body{
     border-radius: 10px;
 }
 .box1{
+    background-image: url(img/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 80% 0 ;
     background-color: hsl(263, 55%, 52%);
     grid-column: 1 /6;
     
