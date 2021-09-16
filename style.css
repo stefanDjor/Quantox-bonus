@@ -60,18 +60,18 @@ body{
     color: hsl(0, 0%, 81%);
     grid-column: 3/8;
 }
-.crni-text{
+.bold-text{
     color: rgb(82, 82, 82);
 }
 .slika > img{
     border-radius: 50%;
 }
-.ime-osobe{
+.name-p{
     font-size: 13px;
     line-height: 20px;
     margin: 0px;
 }
-.naslov-text {
+.title-text {
     font-size: 18px;
     
 }
@@ -86,11 +86,11 @@ body{
     width: 50px;
     height: 50px;
 }
-.box4 .zanimanje, .box3 .zanimanje {
+.box4 .job, .box3 .job {
     color: hsl(0, 0%, 57%);
 }
 
-.zanimanje {
+.job{
     opacity: 50%;
     
 }
